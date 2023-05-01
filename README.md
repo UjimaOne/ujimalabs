@@ -1,2 +1,2 @@
 # ujimalabs
-Issues
+Please share you issues with code labs here
